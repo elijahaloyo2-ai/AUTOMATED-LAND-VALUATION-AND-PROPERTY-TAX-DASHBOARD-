@@ -2,7 +2,7 @@ import os
 import json
 import joblib
 import streamlit as st
-import geopandas asandas
+import geopandas as gpd
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
